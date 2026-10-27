@@ -1,0 +1,17 @@
+# build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.map
+*.elf
+*.hex
+*.bin
+*.list
+
+# workspace and editor files
+.metadata/
+*.bak
+*~
